@@ -1,0 +1,732 @@
+Name: Yu Gan
+Courses:
+BME 460 Biomedical Digital Signal Processing LabBME 571 Machine Learning in Biomedical Application
+
+Name: Negar Ebadi
+No courses taught
+
+Name: Hongbin Li
+No courses taught
+
+Name: Jia Xu
+Courses:
+Deep LearningData Structures
+
+Name: Ronghuan Xu
+Courses:
+CE 484 Reinforce concrete designCE 649 Earth supporting structuresENGR 211 Statics and introduction to engineering mechanics
+
+Name: Yuping Huang
+Courses:
+PEP 242: Modern PhysicsPEP 201: Physics IIIPEP 511: Experimental Quantum InformationPEP 579: Nonlinear OpticsPEP 680: Quantum Optics
+
+Name: Athula Attygalle
+No courses taught
+
+Name: Alexander Sutin
+No courses taught
+
+Name: Marouane Temimi
+Courses:
+CE525 Engineering HydrologyCE652 Hydrological Modeling
+
+Name: Ting Yu
+Courses:
+PEP750 Quantum Field TheoryPEP754 Advanced Quantum MechanicsPEP552 General Relativity
+
+Name: Frank Fisher
+Courses:
+E 126ME 345NANO 600
+
+Name: Alexei Miasnikov
+No courses taught
+
+Name: Stefan Strauf
+Courses:
+PEP 503 (EE/ME/Nano) Introduction to Solid State PhysicsPEP 501 Atomic PhysicsPEP 209 Modern OpticsPEP 201/221/222 Sophomore LabsNANO 600 Nanoscale Science and TechnologyNANO 525 Techniques of Surface and Nanoscience CharacterizationPEP 509 Intermediate Waves and Optics
+
+Name: Shima Hajimirza
+Courses:
+ME 234: Mechanical Engineering ThermodynamicsME 618: Principles of Energy Conversion and Renewable EnergyME 610: Machine Learning Based Optimization for Mechanical
+
+Name: David Vaccari
+Courses:
+EN 377 - Introduction to Environmental EngineeringEN 322 - Environmental Engineering Design VIEN 575 - Environmental BiologyEN 541 - Fate and Transport of Environmental ContaminantsEN 385 - Modeling of Environmental SystemsCE 565 - Numerical Methods in Civil and Environmental Engineering
+
+Name: Zumrut Akcam-Kibis
+Courses:
+CS 115 - Introduction to Computer Science, Fall 2022CS 284 - Data Structures, Fall 2021CS 385 - Algorithms, Fall 2021
+
+Name: Susanne Wetzel
+Courses:
+CS306 Introduction to IT SecurityCS425/CS426 Cybersecurity Capstone I+IICS578 Privacy in a Networked World
+
+Name: Yong Zhang
+Courses:
+CH 322 Theoretical Chemistry CH 421 Chemical Dynamics CH 520 Advanced Physical ChemistryCH 669 Applied Quantum Chemistry
+
+Name: Brendan Englot
+No courses taught
+
+Name: Pedro Vilanova-Guerra
+Courses:
+MA 222 Probability and StatisticsMA 331 Intermediate StatisticsMA 346 Numerical MethodsMA 540 Theory of ProbabilityMA 575 Optimization models in quantitative financeMA 576 Optimization for data science
+
+Name: John Dzielski
+No courses taught
+
+Name: Xiaohu Li
+Courses:
+MA222 Probability and Statistics; MA 331 Intermediate Statistics; MA 545 Short Term Actuarial Mathematics; MA546 Long Term Actuarial Mathematics; MA 611 Probability Theory; MA 612 Mathematical Statistics; MA 623 Stochastic Processes
+
+Name: Yi Guo
+No courses taught
+
+Name: Xueqing Liu
+Courses:
+CS284 Data Structure CS589 Text Mining and Information Retrieval
+
+Name: Georgios Portokalidis
+No courses taught
+
+Name: Patricia Anne Muisener
+Courses:
+General Chemistry I, CH 115General Chemistry II, CH 116Coordinator for CH 115 and CH 116Thermodynamics, CH 321Professional Ethics, CH 301 and CH 501Research Proposals for Undergraduate Research, CH 398
+
+Name: Rupak Chatterjee
+No courses taught
+
+Name: Mohammad Ilbeigi
+Courses:
+CM-516 Infrastructure Systems: Sustainability and ResiliencyCM-529 Construction Project SchedulingCM-533 Automation in Construction
+
+Name: Benjamin Leinwand
+No courses taught
+
+Name: Elsayed Aziz
+Courses:
+ME225: DynamicsME358: Machine Dynamics and MechanismsME361: Design of Machine ComponentsME322: Design Engineering VI ME635: Modeling and SimulationME324: Senior Design Project
+
+Name: Jennifer Kang-Mieler
+No courses taught
+
+Name: George Korfiatis
+Courses:
+CE-595 Geotechnical DesignSM-532 Sustainable DevelopmentEN-553 Groundwater EngineeringEN-690 Soil and Groundwater Remediation
+
+Name: Long Wang
+Courses:
+ME 650 Robot ManipulatorsME 621 Intro to Modern Control EngineeringENGR 111 Introduction to Design and Systems ThinkingE 120 Engineering Graphics
+
+Name: Andrey Nikolaev
+No courses taught
+
+Name: Chan Yu
+Courses:
+ENG120, “Engineering Graphics” - Introduce principles of engineering graphics and the computer aided solid modeling tool, SolidworksENG126, “Mechanics of Solids” - Introduce the basics of the solid mechanics including statics, behavior of solid materials, especially their motion and deformation under the action of forces.  ME491, “Manufacturing Processes and Systems” - This course introduces manufacturing processes including traditional manufacturing processes, latest additive manufacturing technologies, and more.  For each manufacturing process, machines and process parameters will be identified for quality improvement and cost reduction.   Material behavior and process physics will be discussed to further understand the principles of the process.   This course also covers the systems of manufacturing including automation technologies, integrated manufacturing systems, and manufacturing support systems.  ME564, “Principle of Optimum Design and Manufacture” - Introduce optimization methodology as a valuable decision support tool, help develop skills in building and solving optimization models for variety of engineering decision problems, and expose key mathematical concepts underlying various optimization models and algorithmsME566, “Design for Manufacturability” - Design for Manufacturability addresses methodologies and tools to define product development phases and experience working in teams to design high-quality competitive products. Primary goals are to improve the ability to reason about design, material and process alternatives and apply modeling techniques appropriate for different development phasesME652, “Advanced Additive Manufacturing” - Introduce the basics of the solid mechanics including statics, behavior of solid materials, especially their motion and deformation under the action of forces.ME653, “Design for Additive Manufacturing” - Design for additive manufacturing course teaches how best to design products for additive manufacturing from variety of perspectives including surface texture and quality improvements of 3d printed parts, design rules for additive manufacturing, part build orientation, integrated design and part consolidation, and part geometry and topology optimization.
+
+Name: Yi Bao
+No courses taught
+
+Name: Denver Baptiste
+Courses:
+Physiology, Biotechnology, Cellular Molecular Biology,Bioethics, Ecology and Evolution, General Biology
+
+Name: Kevin Lu
+Courses:
+Engineering Design VI (CPE/EE 322)Engineering Design VII (CPE/EE 423)Engineering Design VIII (CPE/EE 424)Digital System Design (CPE 487)Internet of Things (EE 629)Research (CPE/EE 400)Special Problems (AAI/CPE/EE 800)Thesis (AAI/CPE/EE 900)
+
+Name: Chang-Hwan Choi
+Courses:
+ME-234 Mechanical Engineering ThermodynamicsME-342 Fluid MechanicsME-354 Heat TransferME-423/424 Engineering  DesignME/NANO-680 Fundamentals of Micro/Nano Fluidics
+
+Name: Pinar Akcora
+Courses:
+CHE 332 Separation OperationsCHE 560 Fundamentals of Polymer ScienceNANO 525 Techniques of Surface and Nanostructure Characterization
+
+Name: Becky Tucci
+Courses:
+BME482 Engineering PhysiologyBME482L Engineering Physiology LabBME 306 Intro. to Biomedical EngineeringBME445 Biosystems Simulation & ControlBME 445L Biosystems Simulation & ControlBME 800 Special Problems in Biomedical Engineering
+
+Name: Yong Shi
+No courses taught
+
+Name: Tewodros Zewde
+No courses taught
+
+Name: Jean Zu
+No courses taught
+
+Name: Igor Pikovski
+No courses taught
+
+Name: Kenny Wong
+Courses:
+BIO281 Biology & BiotechnologyBIO381 Cell BiologyBIO397 Plant BiologyBIO484 Molecular GeneticsBIO684 Molecular Biology Lab TechniquesCH301 and CH501 Ethics in Research
+
+Name: Joseph Miles
+Courses:
+From 2004 to 2021, my duties were to teach the Engineering Design I, II, III & IV courses in Robotics (C++), Data Acquisition (C++ and LabVIEW), Truss & Beam Construction, and Electronics (MATLAB/Simulink); Approx. 150 to 190 students/semester from 2004 to 2021. The Engineering Design Spine uses an inter-disciplinary approach, introducing the concepts of Systems Engineering to the Stevens undergraduate student body. Design I, II, III and IV focus on EE, ME, Computer Software & Engineering and Project Management.During 2021, I transitioned into teaching the Design 4 lecture course entitled “Design of Dynamical Systems” and “Introduction to Programming and Algorithmic Thinking” both courses combined consist of 250 to 425 students.
+
+Name: Dimitri Donskoy
+Courses:
+Graduate and Undergraduate teaching courses: “Ocean Measurements and Analysis”, “Introduction to Remote Sensing”, “Nondestructive Evaluation”, “Mechanics of Solids”, “Design Projects” “Acoustic & Vibration Measurements Laboratory”, "Acoustic Diagnostics" and "Noise and Vibrations"
+
+Name: Svetlana Malinovskaya
+No courses taught
+
+Name: Eui-Hyeok Yang
+Courses:
+NANO 200: Intro to NanotechnologyME 483: Control SystemsME 581: Introduction to Bio Micro Electro Mechanical SystemsNANO 325: Introduction to Nanofabrication and CharacterizationNANO 600: Nanoscale Science and TechnologyME 681: Applications of Advanced Micro/Nano Materials, Structures, and Devices
+
+Name: Sunil Paliwal
+No courses taught
+
+Name: Eduardo Bonelli
+No courses taught
+
+Name: Alyssa Hensley
+Courses:
+CHE 234: Chemical Engineering ThermodynamicsCHE 650: Reactor Design
+
+Name: Kazi Lutful Kabir
+Courses:
+CS 135 - Discrete Structures CS 385 - AlgorithmsCS 590 - Algorithms
+
+Name: Hady Salloum
+No courses taught
+
+Name: Adeniyi Lawal
+Courses:
+ChE 210 Process AnalysisChE 332 Separation OperationsChE 342 Heat and Mass TransferChE 423/424 Senior DesignChE 672 Polymer Processing
+
+Name: Nikolaos Triandopoulos
+No courses taught
+
+Name: Dominic Duggan
+No courses taught
+
+Name: Abrar Alrumayh
+Courses:
+CS 396 - Security, Privacy and Society
+
+Name: Simon Podkolzin
+Courses:
+CHE-345 Process Control, Modeling and SimulationCHE-MT-CH-EN-NANO-555 Catalysis and Characterization of Nanoparticles http://www.podkolzin.com/Courses/555_Catalysis.htmCHE-620/MT-603 Chemical Engineering ThermodynamicsCHE 707 Curricular Practical TrainingCHE-800 Special Problem in Chemical EngineeringMT-800 Special Problem in MaterialsCHE-960 Research in Chemical EngineeringMT-960 Research in MaterialsExploring Career Options in Engineering and Science (ECOES) - Chemical Engineering
+
+Name: Samuel Kim
+Courses:
+• CS 442 (Database Management Systems) 2021-2022• CS 561 (Database Management Systems) 2005-2022• CS 562 (Database Management Systems) 2007-2022• CS 105 (Introduction to Scientific Computing) 1998 • CS 382 (Computer Arch. & Org.) 1998• CS 492 (Operating Systems) in 2000 • Special Topics (Data Warehousing)• Special Topics (Object-Relational DBMS)
+
+Name: Yue Ning
+Courses:
+CS559 Machine LearningCS584 Natural Language Processing
+
+Name: Matthew Coleman
+No courses taught
+
+Name: Jie Shen
+Courses:
+CS541, CS560
+
+Name: Ting Lu
+No courses taught
+
+Name: Jeffrey Raab
+Courses:
+General ChemistryOrganic Chemistry
+
+Name: Nikhil Muralidhar
+Courses:
+CS-556 Mathematical Foundations of Machine Learning
+
+Name: Cristina Comaniciu
+No courses taught
+
+Name: Shang Wang
+No courses taught
+
+Name: Eve Riskin
+No courses taught
+
+Name: Anju Sharma
+Courses:
+CH 115 & 116 General Chemistry I and II, CH 550 Spectra and Structure, CH 243 & CH 244 Organic Chemistry I and II, CH 245 & CH 246 Organic Chemistry Laboratory I and II, CH 640 Advanced Organic Chemistry
+
+Name: Philippos Mordohai
+No courses taught
+
+Name: Rahul Khade
+Courses:
+CH-115 General Chemistry ICH-116 General Chemistry IICH-321 ThermodynamicsCH-421 Chemical Dynamics and LabCH-520 Advanced Physical ChemistryCH-620 Thermodynamics and Kinetics
+
+Name: Matthew Libera
+No courses taught
+
+Name: Shudong Hao
+Courses:
+CS-392 Systems ProgrammingCS-382 Computer Architecture and Organization
+
+Name: Shucheng Yu
+Courses:
+CPE/EE 695 - Applied Machine LearningCPE/EE 691 - Information Systems Security
+
+Name: Enrique Dunn
+No courses taught
+
+Name: Eric Koskinen
+Courses:
+• CS516: Compiler Design & Implementation: S'20, S'21, S'22.• CS485: Societal Impact of Information Technologies: F'17, F'18, F'19, F'20, F'21, F'22.• CS282: Introduction to Computer Science II, Honors: S'2018• Object-Oriented Programming (at NYU): F'14• Data Structures (at NYU): F'13, S'14.
+
+Name: Khondokar Billah
+No courses taught
+
+Name: Jinho Kim
+Courses:
+- BME 343: Transport in Biological Systems- BME 344: Transport in Biological Systems Lab- BME 750: Lab-on-a-Chip Technology in Biomedical Applications- BME 520: Cardiopulmonary Mechanics
+
+Name: Leslie Brunell
+Courses:
+Undergraduate Courses:CE304             Water Resources EngineeringCE342             Fluid MechanicsCE342L          Fluid Mechanics Laboratory (2005 – 2012)CE381             Civil Engineering Measurements LaboratoryCE423             Civil Engineering Design VIIE423X1           Multidisciplinary Design VIICE424             Civil Engineering Design VIIIE424X1           Multidisciplinary Design VIIIE101                Engineering ExperienceE126                Mechanics of Solids (2000 – 2006) Graduate Courses in the Water Resources Program:CE535             Stormwater Management      CE651             Drainage DesignCE685             Advanced HydrologyCE650             Water Distribution Systems Analysis Redesigned Courses:CE381             Surveying to Civil Engineering Measurements LaboratoryCE685             Advanced Hydraulics
+
+Name: Sally Shady
+Courses:
+BME 506- BiomechanicsBME 556- Advanced BiomechanicsBME 505- Biomaterials Laboratory
+
+Name: An Wang
+Courses:
+NA224/OE524 Introduction to Ship Design and Ship BuildingOE630 HydrodynamicsCE342 Fluid Mechanics
+
+Name: Ansu Perekatt
+Courses:
+Biology and BiotechnologyImmunologyPathophysiology
+
+Name: Siva Thangam
+Courses:
+• ME 423 Engineering Design VII• ME 424 Engineering Design VIII• ME 675 Computational Fluid Dynamics and Heat Transfer• ME 615 Thermal Systems Design• ME 545 Introduction to Aerospace Engineering
+
+Name: Mahmood Sohrabi
+No courses taught
+
+Name: Knut Stamnes
+No courses taught
+
+Name: Annie Xian Zhang
+Courses:
+ME 354: Heat TransferNANO 600: Nanoscale Science and TechnologyE 120: Engineering Graphics ME 470: Mechanical Engineering Systems LaboratoryNANO 525: Techniques of Surface and Nanostructure CharacterizationME 181: Seminar in Mechanical Engineering
+
+Name: Reza Peyrovian
+Courses:
+- Virtualization- Cloud Computing- Software Defined Networking- Software Engineering- Software Architecture- Operating Systems- Theory of Programming Languages- Advanced Algorithm Design- Distributed Systems- Computer Architecture- Data Structures
+
+Name: Hongjun Wang
+Courses:
+BME 505 BiomaterialsBME 650 Advanced BiomaterialsBME 675 Nanomedicine
+
+Name: Ping Wang
+Courses:
+CS 559 Machine Learning: Fall 2021, Spring 2022
+
+Name: Constantin Chassapis
+Courses:
+• ME 225 Dynamics• ME 322 Engineering Design• VIME 358 Machine Dynamics and Mechanisms• ME 423 Engineering Design VII• ME 424 Engineering Design VIII• ME 520 Analysis and Design of Composites• ME 473 Design of Mechanical Systems• ME 645 Design of Production Systems• IPD 602 Integrated Product Development II• E 102 Engineering Experiences
+
+Name: Robert Pastore
+No courses taught
+
+Name: Lei Wu
+No courses taught
+
+Name: Gizem Acar
+Courses:
+E 120 - Engineering GraphicsME 631 - Mechanical VibrationsME 358 - Machine Dynamics and Mechanisms
+
+Name: Antonio Nicolosi
+Courses:
+CS115—Introduction to Computer ScienceCS181—Honors Introduction to Computer Science ICS284—Data StructuresCS306—Introduction to IT SecurityCS334—Automata and ComputationCS576—Secure SystemsCS578/SOC551—Privacy in a Networked WorldCS579/CpE579—Foundations of CryptographyCS601—Algorithmic ComplexityCS693/CpE693—Cryptographic Protocols
+
+Name: Norman Horing
+No courses taught
+
+Name: Yu-Dong Yao
+No courses taught
+
+Name: Hadi Safari Katesari
+Courses:
+MA 701: Statistical InferenceMA 641: Time Series Analysis IMA 541: Statistical Methods
+
+Name: Dov Kruger
+Courses:
+CPE390 - Microprocessor SystemsCPE593 - Applied Data Structures and AlgorithmsCPE553 - C++CPE552 - Java
+
+Name: Faith Kim
+Courses:
+Ch115 General Chemistry ICh116 General Chemistry IICh117 General Chemistry Laboratory ICh118 General Chemistry Laboratory IIBio281R Biology & Biotechnology RecitationCh580 Biochemistry ICh664 Computational Chemistry
+
+Name: Sven Esche
+No courses taught
+
+Name: Michael Greenberg
+Courses:
+Spring 2022: CS 284 Data StructuresFall 2021: CS 515 Fundamentals of Computing
+
+Name: Xiaoguang Meng
+Courses:
+​​​​EN 379 Environmental Systems LaboratoryEN 423/424 – Environmental Engineering Design VII/VIIIEN551 Environmental Chemistry of Soils and Natural Surfaces
+
+Name: Tegan Brennan
+Courses:
+CS284, Spring 2021CS516, Fall 2021CS284, Spring 2022CS284, Fall 2022
+
+Name: Sandeep Bhatt
+Courses:
+CS 135: Discrete StructuresCS 334: Theory of ComputationCS 601: Algorithmic ComplexityCS 810: Algorithmics
+
+Name: Junjian Qi
+Courses:
+- EE 589 Introduction to Power Engineering- EE 590 Smart Grid
+
+Name: Min Song
+Courses:
+– CPE 679 Computer and Information Networks– EE/CPE/AAI 800 Special Research Problems in EE/CPE/AI– EE 820 Research Seminar
+
+Name: Anthony Russo
+No courses taught
+
+Name: Xiaofeng Qian
+Courses:
+PEP124: Physics for Business and Technology IIPEP557: Quantum Information and Quantum Computation
+
+Name: David Zeng
+No courses taught
+
+Name: Jae Chul Kim
+Courses:
+CHE234: Chemical Engineering ThermodynamicsMT588: Electrochemical Materials and Devices for Energy and SustainabilityMT602: Principles of Inorganic Materials Synthesis
+
+Name: Junfeng Liang
+No courses taught
+
+Name: Rainer Martini
+Courses:
+Educational activities of Dr. Martini include:- Conception and development of two Physics centered courses for science teachers: a Graduate level course for Middle school teachers and a cross-curriculum course for teachers from all levels (K-12) focused on misconceptions in science.- serving for 7 years as a member of the Undergraduate Curriculum Committee and 8 years as a member of the Graduate Curriculum Committee of Stevens Institute of Technology.- Conception and development of “Teaching Assistants Seminar”, a seminar required for each graduate student at Stevens working in the function as a Teaching Assistant.- Conception and teaching of a six-term long project based laboratory course required for all Physics undergraduate students.- Advisor of > 20 graduate students during their PhD research (14 students received PhD thus far) as well as over 25 undergraduate students in multiple Senior and research projects at SIT.During his time at Stevens Dr. Martini has taught the following courses ((*) denotes courses that were either newly created or completely redesigned):PEP 123 Physics for Business & Technology I (*)PEP 124 Physics for Business & Technology II (*)PEP 209 Modern OpticsPEP 242 Modern PhysicsPEP 297 SKIL I (*)PEP 298 SKIL II (*)PEP 322 Engineering Design VI (*)PEP 397 SKIL III (*)PEP 398 SKIL IV (*)PEP 423 Engineering Design VII (*)PEP 424 Engineering Design VIII (*)PEP 443 Modern Physics Laboratory IPEP 444 Modern Physics Laboratory IIPEP 497 SKIL V (*)PEP 498 SKIL VI (*)PEP 501 Fundamentals of Atomic Physics (*)PEP 509 Intermediate Waves and OpticsPEP 510 Modern Optics LabPEP 515 Photonics IPEP 516 Photonics IIPEP 680 Quantum OpticsPEP 700 Quantum Electron Physics and Technology SeminarPEP 801 Special Topics in Physics (PhD)
+
+Name: Hang Liu
+Courses:
+CPE 360;CPE 517;CPE 517-WS;
+
+Name: George McConnell
+Courses:
+2022F BME 482: Engineering Physiology2022S BME 445: Biosystems, Simulation and Control2022S BME 503: Engineering Physiology II2022F BME 558: Intro to Brain Machine Interfaces
+
+Name: Christopher Search
+No courses taught
+
+Name: Raju Datla
+No courses taught
+
+Name: Hamid Hadim
+Courses:
+E 126 - Mechanics of SolidsME234 - ME ThermodynamicsME342 - Fluid MechanicsME335 - Thermal Engineering AnalysisME354 - Heat TransferME470 - ME Systems LaboratoryME 510 - Power Plant EngineeringME 513 - Introduction to Nuclear EngineeringME 514 - Sustainable EnergyME 516 - Nuclear Reactor Safety and Waste DisposalME 594 - Numerical Methods in Mechanical EngineeringME601 - Advanced ThermodynamicsME604 - Advanced Heat TransferME605 - Conduction Heat TransferME 609 - Convective Heat TransferME615 - Thermal System DesignME 616 - Thermal-Hydraulics Design of Nuclear Power ReactorsME641 - Engineering Analysis I
+
+Name: Rajarathnam Chandramouli
+Courses:
+EE 608A Applied Modeling and OptimizationEE 608WSApplied Modeling and OptimizationEE 465 Introduction to Communication Systems
+
+Name: Mahmoud Al-Quzwini
+No courses taught
+
+Name: Patrick Hill
+Courses:
+CS 546 - Web Programming ICS 554 - Web Programming II
+
+Name: Jon Miller
+No courses taught
+
+Name: Rod Kim
+Courses:
+EE359 Electronic Circuits
+
+Name: Samantha Kleinberg
+No courses taught
+
+Name: Nicholaus Parziale
+No courses taught
+
+Name: Edward Whittaker
+No courses taught
+
+Name: Cheng Chen
+Courses:
+Courses Taught at Stevens: CE-342: Fluid MechanicsCE-566: Numerical Methods for Fluid Flow in Subsurface Energy SystemsCE-588: Theories for Flow and Transport in Porous Media Courses Taught at Virginia Tech:Numerical Methods for Fluid Flow in Petroleum ReservoirsFlow and Transport in Porous MediaGeoenergy Engineering FundamentalsGraduate Seminar
+
+Name: Nariman Farvardin
+No courses taught
+
+Name: Denis Serbin
+Courses:
+Fall 2022: MA 121-122 (Calculus I)Spring 2022: MA 125-126 (Calculus II + Linear Algebra), MA-336 (Modern Algebra)
+
+Name: Michael Zabarankin
+No courses taught
+
+Name: Reza Marsooli
+Courses:
+Fluid Mechanics, Urban Oceanography
+
+Name: Christophe Pierre
+No courses taught
+
+Name: Vladimir Lukic
+No courses taught
+
+Name: Marcin Iwanicki
+Courses:
+BIO526 (Spring 2020 -present)BIO683 (Fall 2022-present)BIO684 (Fall 2019-present)
+
+Name: Robert Chang
+No courses taught
+
+Name: Chunlei Qu
+Courses:
+PEP 501 Fundamentals of Atomic PhysicsPEP 542 ElectromagnetismPEP 643 Electricity & Magnetism IPEP 644 Electricity & Magnetism II
+
+Name: Weina Meng
+Courses:
+CE381 Civil Engineering Measurement LabCE484 Reinforced Concrete Structure DesignCE589 Advanced Concrete Technology
+
+Name: Mishah Salman
+Courses:
+ME 225 Dynamics | ME 322 Engineering Design VI | ME 423 Engineering Design VII |  ME 424 Engineering Design VIII | ME 483 Control Systems | ME 522 Mechatronics | ME 551 Microprocessor Applications in Mechanical Engineering | ME 598 Introduction to Robotics | ME 654 Advanced Robotics | ME 800 Special Problems in Mechanical Engineering
+
+Name: Karim Karam
+No courses taught
+
+Name: Brunella Taddeo
+Courses:
+BIO281 Biology & BiotechnologyBIO381 Cell BiologyBIO392 MicrobiologyBIO484 Molecular Genetics
+
+Name: Kishore Pochiraju
+Courses:
+ME 635: Modeling and SimulationME 520: Design and Analysis of Composite Materials
+
+Name: Dave Naumann
+No courses taught
+
+Name: Jianmin Qu
+No courses taught
+
+Name: Aaron Klappholz
+Courses:
+CS423CS424CS561CS574
+
+Name: Fan Yang
+No courses taught
+
+Name: Pin-Kuang Lai
+Courses:
+CHE351: Reactor DesignCHE630: Theory of Transport ProcessCHE700: Seminar in Chemical Engineering
+
+Name: Xiaojun Yu
+No courses taught
+
+Name: Jason Corso
+No courses taught
+
+Name: Rita Sousa
+No courses taught
+
+Name: Xiaojiang Du
+No courses taught
+
+Name: Elnaz Banan Sadeghian
+Courses:
+EE 609 Communication TheoryEE 348 Signals and Systems
+
+Name: Jonggi Hong
+Courses:
+2023 Spring     CS541 Artificial Intelligence
+
+Name: Souran Manoochehri
+Courses:
+ME665 Advanced Product DevelopmentME653 Design for Additive ManufacturingME652 Advanced Additive ManufacturingME644 Computer Integrated Design and ManufacturingIPD601 Integrated Product DesignME566 Design for ManufacturabilityME520 Composite MaterialsME564 Principles of Optimum Design and ManufacturingME358 Machine Dynamics and MechanismsME225 Dynamics
+
+Name: Dibs Sarkar
+Courses:
+EN 501/SM 501: Seminar in Sustainability ManagementEN 510/SM 510: Perspectives in Environmental ManagementEN 692/SM 690: Project in Sustainability Management
+
+Name: Jason Rabinovitch
+Courses:
+ME 342 (Fluid Mechanics)ME 674 (Advanced Fluid Dynamics)ME 675 (Computational Fluid Dynamics and Heat Transfer)
+
+Name: Chaitanya Krishna Vallabh
+No courses taught
+
+Name: Abhishek Sharma
+Courses:
+CH 243CH 244CH 642CH 115CH 800
+
+Name: Philippe Meunier
+No courses taught
+
+Name: Woo Lee
+Courses:
+BIO281 Biology and BiotechnologyBME342 Transport in Biological SystemsChE342 Heat and Mass TransferChE345 Reactor DesignE344 Materials ProcessingMt602 Synthesis of Materials
+
+Name: Peter Popolo
+Courses:
+BME 306 Intro to Biomedical EngineeringBME 322 Engineering Design VIBME 445L Biosystems Simulation and ControlBME 482L Engineering Physiology LabBME 505L Biomaterials Lab
+
+Name: Antonia Zaferiou
+Courses:
+BME 561 Biofeedback Innovations for Musculoskeletal RehabilitationBME 482 Engineering PhysiologyBME 445 Biosystems Simulation& ControlBME 482L Engineering Physiology LabBME 701 Selected Topics in Biomedical EngineeringBME 800 Special Problems in Biomedical Engineering (MS/ME)BME 960 Research in Biomedical EngineeringBME 801 Special Problems in Biomedical Engineering (PhD)
+
+Name: Johannes Weickenmeier
+No courses taught
+
+Name: Alexander Taam
+No courses taught
+
+Name: Patrick Miller
+Courses:
+UndergraduateMA-121/122, MA-115  Calculus IMA-123/124, MA-116   Calculus IIMA-221 Differential EquationsMA-222 Probability & StatisticsMA-227 Multivariable CalculusMA-234 Complex VariablesMA-360 Intermediate Differential EquationsGraduateMA-547 Advanced Calculus IMA-548 Advanced Calculus IIMA-615 Numerical Analysis IMA-615 Numerical Analysis IIMA-649 Ordinary Differential EquationsMA-681 Complex Variables IMA-691      Dynamical Systems
+
+Name: Sarath Chandra Kumar Jagupilla
+Courses:
+ENGR 241 (Probability and Statistics for Engineers with Data Science Applications)EN 250 (Quantitative Biology)EN 580 (Modeling and Simulation of Environmental Systems)CE 537 (Introduction to Geographic Information Systems)CE 679 (Regression and Stochastic Methods)
+
+Name: Tsan-Liang Su
+No courses taught
+
+Name: Upendra Prasad
+Courses:
+MA 615 - Numerical AnalysisMA 544 - Numerical Linear Algebra for Big DataMA 574 - Foundational Mathematics for Data ScienceMA 346 - Numerical MethodsMA 119 - Multivariable Calculus and Finite MathematicsMA 117 - Calculus for Business and Liberal Arts
+
+Name: Tian Han
+Courses:
+[CS559-B]: Machine Learning: fundamentals and applications --Fall 19, Spring 20, Fall 20, Fall 21, Fall 22[CS515-A]: Fundamental of Computing --Spring 21[CS483-A, B]: Deep Learning --Spring 22
+
+Name: Hui Wang
+No courses taught
+
+Name: Mukund Iyengar
+No courses taught
+
+Name: Anthony Shupenko
+Courses:
+ENGR-111 and ENGR-122
+
+Name: Yong Meng Sua
+No courses taught
+
+Name: Darinka Dentcheva
+Courses:
+Nonlinear Optimization;Advanced Methods of Optimization;Dynamic programming and stochastic optimal control;Dynamic programming and reinforcement learning;Stochastic Optimization;Optimization models and methods in finance;Optimization models for data science;                                                                                                  SimulationProbabilityIntermediate Statistics                                                                            Real Analysis
+
+Name: Yi Li
+No courses taught
+
+Name: Erisa Terolli
+Courses:
+- Introduction to CS - Fall 2022, Spring 2022, Fall 2021- Mathematical Foundations of Machine Learning - Fall 2022, Spring 2022, Fall 2021- Fundamentals of Computing Spring 2022
+
+Name: Paul Schwartz
+No courses taught
+
+Name: Christos Christodoulatos
+No courses taught
+
+Name: Zahra Pournorouz
+Courses:
+Stevens Insitute of Technology:ENGR 234 ThermodynamicsME 423 Senior Capstone Tarleton State University:ENGT 1306 Applied Statics ENGT 3301 Applied Dynamics ENGT 3305 Machine Design ENGT 3304 Manufacturing Materials ENGT 1100 First-year Seminar ENGT 3360 Safety management ENGT 4395 Capstone (Senior project) ENGT 3313 Mechanics of Materials ENGT 4322 Applied Thermodynamics ENGT 3385 Fluid Mechanics ENGT 3327 Mechanical Analysis (Finite Element Analysis)
+
+Name: Alexander Ushakov
+No courses taught
+
+Name: Raviraj Nataraj
+Courses:
+BME 556 - Advanced BiomechanicsBME 560 - Movement Control RehabilitationSupport for: BME 306, BME 701, BME 800, BME 558
+
+Name: Carrie Perlman
+No courses taught
+
+Name: Sesha Sridevi Alluri
+Courses:
+CH243 Organic Chemistry ICH245 Organic Chemistry LabCH115 General Chemistry ICH116 General Chemistry IICH685 Medicinal ChemistryCH642 Synthetic Organic Chemistry
+
+Name: Philip Orton
+No courses taught
+
+Name: Kathrin Smetana
+Courses:
+MA 540: Introduction to Probability TheoryMA 346: Numerical MethodsMA 615: Numerical Analysis
+
+Name: Kaijian Liu
+Courses:
+CM 506 Computer Applications in the Construction ProcessCE 546 Machine Learning and Analytics in Civil Engineering ApplicationsCM 810 Machine Learning and Data Analytics in Construction
+
+Name: Maxine Fontaine
+Courses:
+E 120, Engineering GraphicsE 126, Mechanics of SolidsME 225, DynamicsME 322, Design VIME 358, Machine Dynamics & Mechanisms
+
+Name: Jacek Ossowski
+Courses:
+CS 334: Theory Of ComputationCS 570: Data Structures & Algorithms
+
+Name: Leonid Shnayder
+Courses:
+PME-530 Introduction to Pharmaceutical ManufacturingPME-535 Good Manufacturing Practices in Pharmaceutical Facilities DesignPME-540 Validation in Life Sciences ManufacturingPME-555 Lean Six SigmaPME-602 Statistical Methods in Pharmaceutical ManufacturingPME-626 Manufacturing of Biopharmaceutical Products
+
+Name: Henry Du
+Courses:
+Advanced Thermodynamics of MaterialsIntroduction to Materials Science and EngineeringMass and Energy BalancesThe Science of CeramicsScience and Technology of Microfabrication TechniquesTechniques of Surface and Thin Film AnalysisUndergraduate Materials Laboratory
+
+Name: Koduvayur Subbalakshmi
+Courses:
+CpE 602: Applied Discrete Mathematics (core course for CpE Graduate Students)EE 670: Information Theory and Coding (graduate course)EE/NIS 610: Error Control Coding for Networks (graduate course)EE/NIS 612: Principles of Multimedia Compression (graduate course)CpE/NIS 591: Introduction to Multimedia Networking (graduate course)CpE 440: Special Topics: Introduction to Information Security (undergraduate course)CpE 493: Data and Computer Communications (Co-instructor, undergraduate course)CpE 491: Information Systems Engineering II (undergraduate course)CpE 358/CS 381: Switch Theory & Logic Design (undergraduate course)E 245: Circuits and Systems (undergraduate core course for all engineering students)Special Topics CoursesHalf-day Short Course: Multimedia Applications over Satellite, taught at Loral Skynet. Special Topics Course: “Multiple Description Coding”, M.S. Student: Eric Schreiber, Fall 2000, Spring 2001.Special Topics Course: “Error Resilient Video Communications”, M.S. Student: Frank Maiolino, Spring 2001.Special Topics Course: “Communications Perspectives on Information Hiding”, Ph.D. Student: Michael Anderson, Summer and Fall 2002.High School Outreach: Helped develop course plan for an Advanced Image Processing course for Science High Public School, Newark NJ, Summer 2002.
+
+Name: Hamid Jafarnejad Sani
+Courses:
+​​​​​​​​​​​​ME 225 DynamicsME 401 Special Problem in MEME 470 Mechanical Engineering Systems LabME 621 Introduction to Modern Control EngineeringME 800 Special Problems in Mechanical Engineering (ME)ME 960 Research in Mechanical Engineering
+
+Name: Paola DiMarzio
+Courses:
+BIO382(Biological Systems)BIO583 (Physiology)BIO381 (Molecular and Cell Biology)BIO282 (Introductory Biology Laboratory)BIO484 (Introduction to Molecular Genetics lab)
+
+Name: Hong Man
+No courses taught
+
+Name: Zhuo Feng
+Courses:
+CPE690 Introduction to VLSI Design (2019F, 2020S, 2021S, 2022S, 2022F, 2023S)CPE 810A: GPU and Multicore Programming (2020F, 2021F, 2022S, 2023S)CPE 820 Research Seminar (2021S, 2021F, 2022S)
+
+Name: Jan Cannizzo
+No courses taught
+
+Name: Christopher Sugino
+No courses taught
+
+Name: Dilhan Kalyon
+Courses:
+CHE 345 Process Control, Modeling and SimulationCHE 670 Polymer Properties and StructureCHE 671 Polymer RheologyCHE 672 Processing of Polymers for Biomedical ApplicationsCHE 678 Experimental Methods in Polymer Melt RheologyCHE 770-771 Selected Topics in Polymer Science and Engineering III-IV CHE 682 Colloids and Interfacial Phenomena
+
+Name: Chang Beom Joo
+Courses:
+E121, E122, E231, ENGR111, ENGR122
+
+Name: Muhammad Hajj
+Courses:
+OE 630: HydrodynamicsCE 342: Fluid Mechanics
+
+Name: Yujun Zhao
+Courses:
+CHE 210 Process AnalysisCHE 234 Chemical Engineering ThermodynamicsCHE 336 Fluid DynamicsCHE 332 Separation OperationsCHE 322 Engineering Design VICHE 423 Engineering Design VIICHE 424 Engineering Design VIIICHE 432 Chemical Engineering SystemsCHE 480 Biochemical EngineeringCHE 501 Mass and Energy Balances, Stagewise OperationsCHE 502 Transport PhenomenaCHE 580 Biofuels Engineering and Technology CHE 620 Chemical Engineering ThermodynamicsCHE 650 Reactor DesignCHE 681 Pharmaceutical Reaction EngineeringCH 115 General Chemistry ICH 116 General Chemistry IICH 117 General Chemistry Lab ICH 118 General Chemistry Lab IICH 620 Thermodynamics and Kinetics
+
+Name: Sarah Goodman
+Courses:
+MT 601 - Structure and DiffractionMT 650 - Special Topics in Materials ScienceENGR 311 - Design with Materials
+
+Name: Kevin Connington
+Courses:
+ME-225 Dynamics, ME-234 Mechanical Engineering Thermodynamics, ME-342 Fluid Mechanics, ME/OE-512 Intermediate Fluid Dynamics, ME-594 Numerical Methods in Mechanical Engineering
+
